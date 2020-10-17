@@ -10,4 +10,5 @@ Connor Crawford & Francois-Marie Brych
 ---
 ### Apple's Apple Pay
 --- 
-* 
+**Apple's Background**
+
