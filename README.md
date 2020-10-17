@@ -19,7 +19,11 @@ Apple is one of the world's leading innovators in computer technology. They are 
 
 When considering traditional credit cards, there's a security risk inherit to your card being a physical piece of plastic. That card can be stolen and used, or even more frequently in the digital age, the information that card represents can be stolen when you use it on websites or apps, or even when swiping in the real world. In traditional transactions, such as swiping your card in a brick and mortar retail location, your credit card communicates with the teller to reveal your Primary Account Number(PAN), which can then be stored by the merchant. With Apple Pay, your PAN is never shared with the retailer. For more information check out this article!
 
+
+
 [How Apple Pay Really Works](https://kirklennon.com/a/applepay.html)
+
+
 ---
 **An Exemplary Company**
 ---
