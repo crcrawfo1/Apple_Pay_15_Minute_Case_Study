@@ -8,6 +8,7 @@ Apple Pay allows for people to use their mobile phone to make payments both onli
 
 ---
 Connor Crawford & Francois-Marie Brych
+
 ---
 ### Apple's Apple Pay
 --- 
