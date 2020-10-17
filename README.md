@@ -32,4 +32,5 @@ The company is exemplary in the FinTech because of their expertise in tech and t
     * Only works for Apple users.
 ---
 **Looking to the future**
+---
 Apple will be evermore present in digital payments, as they have demonstrated by launching their own credit card.
