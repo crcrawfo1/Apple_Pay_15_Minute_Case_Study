@@ -10,8 +10,4 @@ Connor Crawford & Francois-Marie Brych
 ---
 ### Apple's Apple Pay
 --- 
-This is where the case study 
-
-**An Exemplary Company** 
----
-The content of the question
+* 
