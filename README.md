@@ -5,3 +5,8 @@
 ## What is Apple Pay?
 ---
 Apple Pay allows for people to use their mobile phone to make payments both online and in the real world. This allows for further convenience when it comes to keeping all of your payment information in the same easy to access location.
+---
+Connor Crawford & Francois-Marie Brych
+### Apple's Apple Pay
+--- 
+This is where the case study 
