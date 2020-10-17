@@ -19,7 +19,9 @@ When considering traditional credit cards, there's a security risk inherit to yo
 ---
 **An Exemplary Company**
 ---
+
 The company is exemplary in the FinTech because of their expertise in tech and the wide ecosystem they have built. Apple Pay was added to this ecosystem a few years ago, and allows users across Apple products to pay with their Apple devices using digital versions of their credit or debit cards. Moreover, the recent addition of Apple cash makes it easy for them to transfer money between users, to reimburse a coworker for example.
+
 ---
 * Strengths
     * Integrates well with any credit/debit card 
@@ -32,5 +34,7 @@ The company is exemplary in the FinTech because of their expertise in tech and t
     * Only works for Apple users.
 ---
 **Looking to the future** 
+
 ---
+
 Apple will be evermore present in digital payments, as they have demonstrated by launching their own credit card.
